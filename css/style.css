@@ -1,0 +1,57 @@
+body{
+    background-color: white;
+}
+.Titulo {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold; 
+    font-size: 35px;
+    line-height: 30px;
+    line-height: 85%;
+    color: #005677;
+    background-color: #C4C4C4;
+    ;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    font-size: 20px;
+    line-height: 17px;
+    line-height: 85%;
+    text-align: left;
+    color: #005677;
+    background-color: #C4C4C4;
+}
+.ListasDatosPersonales{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: mixed;
+    font-size: 15px;
+    line-height: 13px;
+    line-height: 85%;
+    text-align: left;
+    color: black;
+    
+}
+.ListaFormaciónAcadémica{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: Mixed;
+    font-size: 15px;
+    text-align: left;
+    color: black;
+}
+.ListaExperienciaLaboral{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: Mixed;
+    font-size: 15px;
+    text-align: left;
+    color: black;
+}
+.PiedePagina{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    font-size: 20px;
+    line-height: 17px;
+    line-height: 85%;
+    text-align: left;
+    color: #FFFFFF;
+    background-color:#005677 ;
+}
